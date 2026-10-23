@@ -1,2 +1,2 @@
 # Grupo4-Prueba
-Para resolver conflictos
+Para resolver conflictos entre nosotros
